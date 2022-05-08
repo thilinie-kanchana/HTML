@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178.203" height="49" viewBox="0 0 178.203 49">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="28.717" height="32.621" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_10908" data-name="Group 10908" transform="translate(-142 -52)">
+    <text id="Scribble" transform="translate(142 91)" fill="#2c2c2c" font-size="37" font-family="Roboto-Bold, Roboto" font-weight="700">
+      <tspan x="0" y="0">Scribble</tspan>
+    </text>
+    <g id="Group_10900" data-name="Group 10900" transform="translate(291.485 60.595)">
+      <g id="Group_10899" data-name="Group 10899" clip-path="url(#clip-path)">
+        <path id="Path_10347" data-name="Path 10347" d="M0,0S11.465,4.328,11.222,10.592h0V21.183S-.24,16.855,0,10.592H0Z" fill="#2c2c2c"/>
+        <path id="Path_10348" data-name="Path 10348" d="M98.705,64.5a15.681,15.681,0,0,1,7.282-2.684V58.5a14.936,14.936,0,0,0-7.282,6" transform="translate(-77.27 -45.798)" fill="#2c2c2c"/>
+        <path id="Path_10349" data-name="Path 10349" d="M66.028,28.553a15.576,15.576,0,0,1,8.585-7.695V11.3s-16.326,6.164-15.98,15.083h-.005V41.471s.729-.275,1.872-.792c0-.484.011-.97.051-1.458a15.672,15.672,0,0,1,5.477-10.667" transform="translate(-45.896 -8.85)" fill="#2c2c2c"/>
+        <path id="Path_10350" data-name="Path 10350" d="M75.157,105.4a15.659,15.659,0,0,1,.57-3.088,14.558,14.558,0,0,0-3.414,8.24c-.024.288-.036.574-.043.86.928-.446,2.006-1,3.14-1.655a15.568,15.568,0,0,1-.253-4.358" transform="translate(-56.576 -80.095)" fill="#2c2c2c"/>
+        <path id="Path_10351" data-name="Path 10351" d="M88.37,87.051a14.921,14.921,0,0,0,.2,3.954c4.461-2.668,9.474-6.792,9.281-11.776h.005V78.8a14.642,14.642,0,0,0-8.487,3.963,14.9,14.9,0,0,0-1,4.284" transform="translate(-69.14 -61.691)" fill="#2c2c2c"/>
+      </g>
+    </g>
+  </g>
+</svg>

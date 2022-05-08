@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.703" height="31" viewBox="0 0 37.703 31">
+  <g id="filter" transform="translate(37.703 5.499) rotate(90)">
+    <g id="Group_10890" data-name="Group 10890">
+      <path id="Path_10335" data-name="Path 10335" d="M.46,8.485A.46.46,0,0,1,0,8.025V.46a.46.46,0,1,1,.92,0V8.025A.46.46,0,0,1,.46,8.485Z" transform="translate(1.82 12.218)"/>
+      <path id="Path_10336" data-name="Path 10336" d="M.46,13.654a.46.46,0,0,1-.46-.46V.46a.46.46,0,1,1,.92,0V13.194A.46.46,0,0,1,.46,13.654Z" transform="translate(15.527 0)"/>
+      <path id="Path_10337" data-name="Path 10337" d="M.46,14.74A.46.46,0,0,1,0,14.28V.46a.46.46,0,0,1,.92,0V14.28A.46.46,0,0,1,.46,14.74Z" transform="translate(8.673 5.963)"/>
+      <path id="Path_10338" data-name="Path 10338" d="M2.28,4.559a2.28,2.28,0,1,1,2.28-2.28A2.282,2.282,0,0,1,2.28,4.559ZM2.28.92A1.359,1.359,0,1,0,3.639,2.28,1.361,1.361,0,0,0,2.28.92Z" transform="translate(6.854 2.324)"/>
+      <path id="Path_10339" data-name="Path 10339" d="M2.28,4.559a2.28,2.28,0,1,1,2.28-2.28A2.282,2.282,0,0,1,2.28,4.559ZM2.28.92A1.359,1.359,0,1,0,3.639,2.28,1.361,1.361,0,0,0,2.28.92Z" transform="translate(0 8.579)"/>
+      <path id="Path_10340" data-name="Path 10340" d="M2.279,4.559a2.279,2.279,0,1,1,2.28-2.28A2.282,2.282,0,0,1,2.279,4.559Zm0-3.639A1.359,1.359,0,1,0,3.639,2.279,1.361,1.361,0,0,0,2.279.92Z" transform="translate(13.708 12.734)"/>
+      <path id="Path_10341" data-name="Path 10341" d="M.46,9.5A.46.46,0,0,1,0,9.039V.46a.46.46,0,1,1,.92,0V9.039A.46.46,0,0,1,.46,9.5Z" transform="translate(1.82 0)"/>
+      <path id="Path_10342" data-name="Path 10342" d="M.46,3.244A.46.46,0,0,1,0,2.784V.46a.46.46,0,1,1,.92,0V2.784A.46.46,0,0,1,.46,3.244Z" transform="translate(8.673 0)"/>
+      <path id="Path_10343" data-name="Path 10343" d="M.46,4.33A.46.46,0,0,1,0,3.87V.46a.46.46,0,0,1,.92,0V3.87A.46.46,0,0,1,.46,4.33Z" transform="translate(15.527 16.373)"/>
+    </g>
+  </g>
+  <line id="Line_1" data-name="Line 1" y2="31" transform="translate(0.5)" fill="none" stroke="#aba9a9" stroke-width="1"/>
+</svg>

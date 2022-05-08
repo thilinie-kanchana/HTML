@@ -1,0 +1,85 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+
+/// @type List
+
+/// Regular font family
+$text-font-stack: 'Roboto', sans-serif;
+/*$text-font-stack-semibold: 'oraclesans-semibold', Helvetica, sans-serif;
+$text-font-stack-bold: 'oraclesans-bold', Helvetica, sans-serif;
+$text-font-stack-light: 'oraclesans-light', Helvetica, sans-serif;
+$text-font-stack-georgia: 'georgia', Helvetica, sans-serif;
+$text-font-stack-georgia-bold: 'georgia-bold', Helvetica, sans-serif;*/ 
+
+// Font weights
+$nova-black: 900;
+$nova-bold: 700;
+$nova-medium: 500;
+$nova-regular: 400;
+$nova-light: 300;
+$nova-thin: 100;
+
+
+
+/// Main brand colours
+/// @type Color
+$white: #ffffff;
+$black: #000000;
+$dark-grey: #2C2C2C;
+$mid-gray: #9E9EA7;
+$text: #312D2A;
+$teal: #E3FBFB;
+$yellow: #FBC91B;
+
+
+
+
+
+/// Page maximum width
+/// Below that is 100%
+/// @type Length
+$page-width: 1600px;
+$content-width: 1180px;
+$design-width: $content-width; // This is the canvas/page width in Photoshop
+$gutter: 79px; // This is the grid gutter spacing in Photoshop
+$gutter-percent: percentage($gutter / $design-width);
+$main-content-width: 66.7%;
+$col-padding: 3vw;
+$header-height-small: 48px;
+$header-height-med: 61px;
+$header-height-large: 80px;
+
+/// Breakpoints
+/// using https://github.com/at-import/breakpoint
+/// Documentation: https://github.com/at-import/breakpoint/wiki
+/// Units without a min/max width are based on MIN-WIDTH
+/* E.g.
+@include breakpoint($medium-2) {
+	width: 30%;
+}
+*/
+
+$small: (min-width 480px);
+$phone: (min-width 576px);
+$medium: (min-width 640px);
+$ipad-max: (max-width 767px);
+$ipad: (min-width 768px);
+$large: (min-width 992px);
+$tablet-max: (max-width 1023px);
+$tablet: (min-width 1024px);
+$x-large: (min-width 1200px);
+$xx-large: (min-width 1500px);
+$max-monitor: (min-width 1700px);
+
+
+
+
+
+
+/// Relative or absolute URL where all assets are served from
+/// @type String
+/// @example scss - When using a CDN
+///   $base-url: 'http://cdn.example.com/assets/';
+$base-url: '../' !default;
